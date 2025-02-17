@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
   /**
   * Requires the "PHP Email Form" library
@@ -82,4 +82,3 @@
 
   echo $contact->send();
 ?>
->>>>>>> 713d3f495c1eb048da11138abc74d4a03fcc3513
