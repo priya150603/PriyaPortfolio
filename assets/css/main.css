@@ -640,8 +640,7 @@ section,
 .hero {
   background: url(../img/profile.jpg) no-repeat center center;
   background-size: cover;
-  width: 100%;
-  min-height: 100vh;
+ 
   position: relative;
   padding: 120px 0 60px 0;
   display: flex;
