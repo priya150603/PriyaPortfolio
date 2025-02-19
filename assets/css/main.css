@@ -638,12 +638,10 @@ section,
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-  background: url(../img/profile.jpg) top center no-repeat;
+  background: url(../img/profile.jpg) no-repeat center center;
   background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
   width: 100%;
-  min-height: 90vh;
+  min-height: 100vh;
   position: relative;
   padding: 120px 0 60px 0;
   display: flex;
