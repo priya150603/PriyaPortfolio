@@ -770,7 +770,7 @@ section,
 }
 
 .skills .progress .skill .val {
-  float: none;
+  float: inline-end;
   font-style: normal;
 }
 
